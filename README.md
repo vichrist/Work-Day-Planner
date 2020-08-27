@@ -1,13 +1,11 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-The task was to create a daily calendar that allows the user to input scheduled events within each time block 
+## Description
+  The application will provide a daily planner that allows user to update the schedule within blocks of time. The application will save the plans after the page is refreshed and/or re-opened and the date of will display at the top of webpage depending on when user opens the application. 
 
-When the calendar is loaded the current date is displayed at the top 
-
-The user is presented with timeblocks for standard business hours 
-
-The user is able to add and save calendar events 
-
-Each time user saves an vent to the calendar this data is stored in local storage 
-
+## Usage:
+  This application can be used for anybody who has a schedule they would like to keep track of to manage effectively 
+  
+## Questions: 
+  If you have any questions about this project reach out to me via email at c.vigil27@gmail.com. 
 
